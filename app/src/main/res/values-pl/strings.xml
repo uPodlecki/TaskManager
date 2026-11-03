@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">TaskManagerS</string>
+
+    <string name="my_tasks">Moje zadania</string>
+    <string name="search_hint">Szukaj zadań</string>
+    <string name="sort_by">Sortuj według</string>
+    <string name="view">Widok</string>
+    <string name="status">Status</string>
+    <string name="category">Kategoria</string>
+    <string name="all">WSZYSTKIE</string>
+    <string name="no_tasks">Brak zadań. Kliknij +, aby dodać pierwsze!</string>
+    <string name="quick_add_title">Szybkie dodawanie</string>
+
+    <string name="priority">Priorytet</string>
+    <string name="enable_reminder">Włącz przypomnienie</string>
+    <string name="enable_location_reminder">Przypomnienie lokalizacyjne</string>
+    <string name="recurrence">Powtarzanie</string>
+    <string name="repeat_interval">Powtarzaj co X dni</string>
+    <string name="locations_label">Lokalizacje:</string>
+    <string name="attachments_label">Załączniki:</string>
+    <string name="due_date">Termin</string>
+    <string name="title_label">Tytuł</string>
+    <string name="description_label">Opis</string>
+    <string name="default_location_name">Lokalizacja zadania</string>
+
+    <string name="add_location">Dodaj lokalizację</string>
+    <string name="btn_image">Zdjęcie</string>
+    <string name="btn_pdf">PDF</string>
+    <string name="btn_audio">Audio</string>
+    <string name="btn_record">Nagraj</string>
+    <string name="btn_stop">Zatrzymaj</string>
+    <string name="btn_file">Plik</string>
+    <string name="save_task">Zapisz zadanie</string>
+    <string name="save_changes">Zapisz zmiany</string>
+    <string name="delete_task">Usuń zadanie</string>
+    <string name="btn_cancel">Anuluj</string>
+    <string name="btn_delete">Usuń</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_confirm">Potwierdź lokalizację</string>
+
+    <string name="delete_dialog_title">Usuń zadanie</string>
+    <string name="delete_dialog_msg">Czy na pewno chcesz usunąć to zadanie? Tej operacji nie można cofnąć.</string>
+
+    <string name="dark_mode">Tryb ciemny</string>
+    <string name="notifications">Powiadomienia</string>
+    <string name="default_priority">Domyślny priorytet</string>
+    <string name="default_reminder_time">Domyślny czas przypomnienia (min)</string>
+
+    <string name="deadline_label">Termin: %1$s</string>
+    <string name="today_at">Dzisiaj o %1$s</string>
+    <string name="tomorrow_at">Jutro o %1$s</string>
+
+    <string name="notif_task_title">Przypomnienie o zadaniu</string>
+    <string name="notif_location_title">Przypomnienie lokalizacyjne: %1$s</string>
+    <string name="notif_near_msg">Jesteś blisko: %1$s</string>
+    <string name="notif_channel_name">Przypomnienia o zadaniach</string>
+    <string name="notif_channel_description">Powiadomienia o terminach zadań</string>
+
+    <string name="language">Język</string>
+    <string name="lang_pl">Polski</string>
+    <string name="lang_en">Angielski</string>
+
+    <!-- Enums and Pickers -->
+    <string name="status_todo">DO ZROBIENIA</string>
+    <string name="status_in_progress">W TOKU</string>
+    <string name="status_completed">UKOŃCZONE</string>
+    <string name="priority_low">NISKI</string>
+    <string name="priority_medium">ŚREDNI</string>
+    <string name="priority_high">WYSOKI</string>
+    <string name="cat_work">PRACA</string>
+    <string name="cat_personal">PRYWATNE</string>
+    <string name="cat_shopping">ZAKUPY</string>
+    <string name="cat_other">INNE</string>
+    <string name="rec_none">BRAK</string>
+    <string name="rec_daily">CODZIENNIE</string>
+    <string name="rec_weekly">CO TYDZIEŃ</string>
+    <string name="rec_monthly">CO MIESIĄC</string>
+    <string name="rec_custom">NIESTANDARDOWE</string>
+    <string name="view_today">NA DZISIAJ</string>
+    <string name="view_overdue">ZALEGŁE</string>
+    <string name="sort_date_created">Data utworzenia</string>
+    <string name="sort_due_date">Termin</string>
+    <string name="sort_priority">Priorytet</string>
+    <string name="set_date">Ustaw datę</string>
+    <string name="set_time">Ustaw godzinę</string>
+</resources>
